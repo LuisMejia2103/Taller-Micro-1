@@ -3,7 +3,7 @@ Análisis de Ecuaciones Diferenciales
 
 Se analiza tres casos particulares: valores y vectores propios y diferentes, iguales y complejos.
 
--Enlace al Google Colab https://colab.research.google.com/drive/1OCmGZgn5MqMVIQv1AG3n86PtbAkq3KdA?usp=sharing
+-Enlace al Google Colab https://colab.research.google.com/drive/1cnUYAV7miVPOeU-BHO_ktO421Zcb8wjQ?usp=sharing
 
 -Recursos recomendados:
 
